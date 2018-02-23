@@ -61,4 +61,3 @@ _We may want to put these in a different document but:_
 | coinbase | https://support.coinbase.com/customer/portal/articles/1833695-bitcoin-glossary |
 | CoinDesk | http://www.coindesk.com/information/bitcoin-glossary/ |
 | Oleg Andreev | https://github.com/oleganza/bitcoin-papers/blob/master/BitcoinGlossary.md |
-
